@@ -15,6 +15,7 @@ How to use:
 
 Example:
 
+```
 #include <TinyPinChange.h>
 #include <SoftSerial.h>
 #include <DigiMouse.h>
@@ -46,5 +47,6 @@ void loop()
     DigiMouse.move(x, y, c);
     DigiMouse.update();
 }
+```
 
 -------------------------------------------------------------------------------------------------------------------------
