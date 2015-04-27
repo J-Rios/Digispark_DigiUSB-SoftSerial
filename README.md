@@ -2,6 +2,8 @@
 
 This is a modified DigiUSB (V-USB) library that provides digispark to use DigiMouse/DigiKeyboard/DigiJoystick with SoftSerial (SoftwareSerial) library at same time. It allows, for example, using a Bluetooth module to control the mouse or keyboard.
 
+Also, there is a shield (Eagle files) for the digispark to connect typical bluetooth breakout boards.
+
 -------------------------------------------------------------------------------------------------------------------------
 
 How to install:
