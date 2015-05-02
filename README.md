@@ -32,6 +32,9 @@ SoftSerial BLE(P_RX, P_TX);
 
 void setup()
 {
+    x = 0;
+    y = 0;
+    c = 0;
     BLE.begin(9600);
     DigiMouse.begin();
 }
