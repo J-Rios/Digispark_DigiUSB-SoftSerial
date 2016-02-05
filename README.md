@@ -6,6 +6,10 @@ Also, there is a shield (Eagle files) for the digispark to connect typical bluet
 
 -------------------------------------------------------------------------------------------------------------------------
 
+If you want a much better solution than this, check this: [url]https://github.com/J-Rios/Digispark_SoftSerial-INT0[url]
+
+-------------------------------------------------------------------------------------------------------------------------
+
 How to install:
   - Copy the digistump folder inside .../Arduino-X.X.X/hardware (Overwrite the folder if it exists).
 
